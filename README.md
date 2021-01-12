@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
-
-
-
+|
+|
 ## A friend of mine
 [Maksim Jevglevski](https://rubberduckyy.me/)
 
