@@ -9,12 +9,15 @@ a {
     color: #918bb1;
     padding: 10px 20px;
     border-radius: 5px;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: Monaco, "Courier New", monospace;
+}
+a:hover {
+  color: #64607c;
 }
 
 h1, h2{
     color: #adacb3;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: Monaco, "Courier New", monospace;
 }
 
 img {
