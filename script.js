@@ -14,3 +14,5 @@ function myFunction() {
     btn.innerHTML = "Play";
   }
 }
+
+/*    Design by MaksYUDGIL    */
