@@ -1,0 +1,35 @@
+body {
+    /* background-color: #35333d;*/
+     background-image: url('../src/fon.gif');
+     background-size: cover;
+     text-align: center
+}
+
+#root{
+    text-align: center;
+    height: 100vh;
+
+}
+
+#main{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 100vh;
+    background-color: rgba(22, 25, 30, 0.8);
+}
+
+.essay{
+    margin: 20px;
+    text-align: justify;
+}
+
+p, h3{
+    color:rgb(221, 220, 220);
+    line-height: 1.6;
+}
+
+h3{
+    font: bold;
+    text-align: center;
+}
