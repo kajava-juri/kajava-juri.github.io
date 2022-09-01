@@ -1,8 +1,4 @@
 @media only screen and (min-width: 992px) {
-    #root{
-        text-align: center;
-        height: 100vh;
-    }
     
     #main{
         margin-left: auto;
@@ -11,29 +7,21 @@
         height: 100vh;
         background-color: rgba(22, 25, 30, 0.8);
     }
-    
-    .essay{
-        margin: 20px;
-        text-align: justify;
-    }
+
 }
 
 @media only screen and (max-width: 991px) {
-    #root{
-        height: 100vh;
-    }
+
     
     #main{
-
-        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
         height: 100vh;
         background-color: rgba(22, 25, 30, 0.8);
     }
     
-    .essay{
-        margin: 20px;
-        text-align: justify;
-    }
+
 }
 
 body {
@@ -43,7 +31,22 @@ body {
      text-align: center
 }
 
+@media only screen and (max-width: 768px) {
+    #main{
+        width: 100%;
+        height: 100vh;
+        background-color: rgba(22, 25, 30, 0.8);
+    }
+}
 
+#root{
+    height: 100vh;
+}
+
+.essay{
+    margin: 20px;
+    text-align: justify;
+}
 
 p, h3{
     color:rgb(221, 220, 220);
